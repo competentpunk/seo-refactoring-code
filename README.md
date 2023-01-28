@@ -1,5 +1,5 @@
 # <seo-refractoring-code>
-
+## Website:
 https://competentpunk.github.io/seo-refactoring-code/
 
 ## Description
@@ -28,8 +28,8 @@ https://competentpunk.github.io/seo-refactoring-code/
 
 This page allows the user to navigated between three topics using the top right navigation buttons.
 
-![Website home page screenshot](assets/images/Screenshot-1)
-![Website home page screenshot](assets/images/Screenshot-2)
+![Website home page screenshot](assets/images/Screenshot-1.png)
+![Website home page screenshot](assets/images/Screenshot-2.png)
 
 ## License
 
