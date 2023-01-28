@@ -5,7 +5,7 @@ https://competentpunk.github.io/seo-refactoring-code/
 ## Description
 
 I refractered the code in order to keep this website optimized for new technologies.
- The goal is to make the page accessible and cleaner. This makes it easier to operate, debug, and maintain. 
+ The goal was to make the page accessible and clean the code. This makes it easier to operate, debug, and maintain. 
 
 When working through this code, I thought I broke the website, but it was a naming issue between
 the html and css. It was a simple fix. It's important to take time to review code for
