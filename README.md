@@ -27,9 +27,9 @@ https://competentpunk.github.io/seo-refactoring-code/
 
 This page allows the user to navigated between three topics using the top right navigation buttons.
 
-AS A user visiting this page   
-I WANT to click on different topics relating to seo   
-SO THAT I can read more about them   
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines 
 
 
 ![Website home page screenshot](assets/images/Screenshot-1.png)
